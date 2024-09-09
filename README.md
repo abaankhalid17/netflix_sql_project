@@ -259,7 +259,20 @@ GROUP BY category;
 ## Findings
 
 - 1. There were 6131 Movies and 2676 TV Shows
-- 2. 
+- 2. The most frequent rating for both TV Shows and Movies was TV-MA
+- 3. There were a total of 51 Movies on Netflix that were released in the year 2002
+- 4. The top countries with the most content were the Unites States, India, United Kingdom, and Canada.
+- 5. The longest movie was Louis C.K: Live at the Comedy Store
+- 6. There was a total of 4123 peices of content added in the last 5 years
+- 7. There was only one movie directed by Chirstopher Nolan on Netflix (Inception)
+- 8. There are 99 TV Shows with more than 5 seasons
+- 9. Dramas are the largest genre on Netlfix, leading with 1600
+- 10. The top 5 years for content releases in the United States were 2018, 2017, 2019, 2020, 2016.
+- 11. There are 383 movies that are documentaries
+- 12. There are 2643 movies with no director
+- 13. There are only 4 movies on Netlfix that show Ryan Reynolds
+- 14. The top actor with the most movies produced on Netflix is Adam Sandler
+- 15. There are 251 Movies and 91 TV Shows categorizes as 'Bad' (violence) whereas there are 5880 Movies and 2585 TV Shows categorized as 'Good' (no violence)  
 
 ## Conclusion
 
